@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adoga93
-- 👀 I’m interested in data 
+- 👀 I’m interested in data and AI
 - 🌱 I’m currently learning data science 
 - 💞️ I’m looking to collaborate on data project
 - 📫 How to reach me odeadoga@gmail.com 
